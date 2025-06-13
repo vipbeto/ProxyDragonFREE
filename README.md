@@ -9,7 +9,7 @@
 git clone https://github.com/Penguinehis/ProxyDragonFREE.git
 cd ProxyDragonFREE
 chmod +x *
-./proxy
+./proxy.sh
 ```
 
 After launching:
@@ -31,7 +31,7 @@ Your proxy will now be active and accepting connections.
 git clone https://github.com/Penguinehis/ProxyDragonFREE.git
 cd ProxyDragonFREE
 chmod +x *
-./proxy
+./proxy.sh
 ```
 
 Após iniciar:
